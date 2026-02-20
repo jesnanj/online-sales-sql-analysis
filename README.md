@@ -45,3 +45,20 @@ Sorting results using ORDER BY
 
 Limiting results using LIMIT
 
+## 📸 Project Screenshots
+
+### 📊 Yearly Revenue Analysis
+![Yearly Revenue Comparison](yearly_revenue_comparison.png)
+
+---
+
+### 🏆 Top 5 Highest Revenue Months
+![Top 5 Revenue](screenshots/top_revenue_months.png)
+
+---
+
+### 📦 Peak Order Volume Month
+![Peak Orders](peak_order_volume.png)
+
+---
+
