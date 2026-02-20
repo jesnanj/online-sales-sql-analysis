@@ -23,7 +23,7 @@ The analysis focuses on identifying revenue trends, peak sales periods, and year
 - MySQL Workbench
 
 ---
-🔍 Business Insights
+## 🔍 Business Insights
 
 Revenue shows clear seasonal fluctuations.
 
@@ -33,7 +33,7 @@ Peak order volume months indicate strong customer activity.
 
 Yearly revenue comparison helps evaluate business growth trends.
 
-📊 Key SQL Concepts Used
+## 📊 Key SQL Concepts Used
 
 Date functions (EXTRACT)
 
@@ -53,7 +53,7 @@ Limiting results using LIMIT
 ---
 
 ### 🏆 Top 5 Highest Revenue Months
-![Top 5 Revenue](screenshots/top_revenue_months.png)
+![Top 5 Revenue](top_revenue_months.png)
 
 ---
 
